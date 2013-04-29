@@ -1,0 +1,15 @@
+{
+  "name": "cleerly-event-server",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": "1.4.3",
+    "express":"x",
+    "rjs": "2.9.0",
+    "require-dir": "x",
+    "async": "x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
